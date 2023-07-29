@@ -8,7 +8,7 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.example</groupId>
-	<artifactId>SpeingBoot-Excel</artifactId>
+	<artifactId>SpringBoot-Excel</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>SpringBoot-Excel</name>
 	<description>Demo project for Spring Boot</description>
